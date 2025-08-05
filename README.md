@@ -1,4 +1,4 @@
-# 🚀 Llama Brain - Next-Gen AI Document Intelligence System
+# 🚀 RAG Brain - Next-Gen AI Document Intelligence System
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com)
@@ -376,5 +376,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ by Tanmay Singh**
 
 *Next-Gen AI Document Intelligence with 8K Ultra HD Visuals*
+
 
 **Live Demo**: [Deploy on Vercel](https://vercel.com/new/clone?repository-url=https://github.com/TanmaySingh007/LlamaBrain) 
