@@ -12,11 +12,6 @@
       "dest": "rag_api/api.py"
     }
   ],
-  "functions": {
-    "rag_api/api.py": {
-      "maxDuration": 30
-    }
-  },
   "env": {
     "PYTHONPATH": "."
   }
